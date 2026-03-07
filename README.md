@@ -27,7 +27,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/embed/track/3oTuTpF1F3A7rEC6RKsMRz?utm_source=generator)
+[![Spotify](https://img.sanishtech.com/u/046f5b969c2edb96733bebd39e68302d.png)
 
 ---
 <!--START_SECTION:waka-->
@@ -159,6 +159,7 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
