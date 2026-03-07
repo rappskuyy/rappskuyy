@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 
-[Listen on Spotify](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz)
+[![Spotify](https://novatorem-git-main-rappskuyys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31e3zbdu5rkj5jk2a554lkex6agm)
 
 ---
 <!--START_SECTION:waka-->
@@ -151,6 +151,7 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
