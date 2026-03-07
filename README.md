@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+[![Spotify](novatorem-git-main-rappskuyys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31e3zbdu5rkj5jk2a554lkex6agm)
 
 ---
 
@@ -152,4 +152,5 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
