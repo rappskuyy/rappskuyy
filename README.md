@@ -158,7 +158,7 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/rappskuyy)
 
 </div>
 
@@ -166,7 +166,7 @@
 
 <div align="center">
 
-[![Top Tracks](https://spotify-recently-played-readme.vercel.app/api/spotify-recently-played)](https://open.spotify.com/user/YOUR_USERNAME)
+[![Top Tracks](https://spotify-recently-played-readme.vercel.app/api/spotify-recently-played)](https://open.spotify.com/user/rappskuyy)
 
 </div>
 
@@ -291,3 +291,4 @@ How many programmers does it take to change a light bulb? None – it's a hardwa
 ⭐ **From [rappskuyy](https://github.com/rappskuyy) with 💝**
 
 </div>
+
