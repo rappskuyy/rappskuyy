@@ -11,6 +11,8 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rappskuyy/)
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user/rappskuyy)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/@fvckrapz)
+
 
 [![Acer](https://img.shields.io/badge/Acer-Acer_Nitro_5-999999=?style=for-the-badge&logo=acer&logoColor=green)]()
 
@@ -144,34 +146,13 @@
 
 <h3 align="left"></h3>
 
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="www.youtube.com/@fvckrapz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/rappskuyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="linkedin.com/in/rappskuyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left"></h3>
-
 
 ###
 
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
