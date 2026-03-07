@@ -51,12 +51,8 @@
 </div>
 
 📊 **Stats & Streaks Github** 
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=rappskuyy&theme=tokyonight" height="150" alt="GitHub Streak" /></a>
-</div
-[![rappskutt GitHub stats](https://github-readme-stats.vercel.app/api?username=rappskuyy)](https://github.com/rappskuyy/github-readme-stats)
 
-<div align="center">
+<div align="center" height="150">
 
 ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rappskuyy&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23c0caf5%22%2C%22accentColor%22%3A%22%237aa2f7%22%2C%22borderColor%22%3A%22%23414868%22%2C%22waterColor%22%3A%22%237aa2f7%22%2C%22streakColor%22%3A%22%23f7768e%22%7D)
 
@@ -172,6 +168,7 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
