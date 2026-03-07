@@ -44,7 +44,7 @@
 
 [![Spotify](https://img.sanishtech.com/u/046f5b969c2edb96733bebd39e68302d.png)
 
-<div align="right">
+<div align="left">
 
 [![Playlist 1](https://img.shields.io/badge/🎵%20Playlist%201-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7885sWqktL5MDB6fYlbFaa?si=f8d25f773c1c493b)
 
@@ -183,4 +183,5 @@
 ###
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
