@@ -11,6 +11,7 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rappskuyy/)
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user/rappskuyy)
+
 [![Acer](https://img.shields.io/badge/Acer-Acer_Nitro_5-999999=?style=for-the-badge&logo=acer&logoColor=green)]()
 
 ---
@@ -36,8 +37,12 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Stats & Streaks Github** 
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=rappskuyy&theme=tokyonight" height="150" alt="GitHub Streak" /></a>
+</div
 
+###
 
 <h3 align="center"></h3>
 
@@ -141,14 +146,10 @@
 
 <h3 align="left"></h3>
 
-###
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=rappskuyy&theme=tokyonight" height="150" alt="GitHub Streak" /></a>
-</div>
 
 ###
 
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
