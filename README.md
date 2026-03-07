@@ -23,6 +23,8 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+---
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-git-main-rappskuyys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31e3zbdu5rkj5jk2a554lkex6agm)
@@ -156,6 +158,7 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
