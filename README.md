@@ -33,14 +33,90 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue?style=flat) <p align="left"> <img src="https://komarev.com/ghpvc/?username=rappskuyy&label=Profile%20views&color=0e75b6&style=flat" alt="rappskuyy" /> </p>
 
-**I'm a Night 🦉** 
+### 📊 Skill Level Breakdown
 
-```text
-🌞 Morning                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-🌆 Daytime                157 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌃 Evening                197 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌙 Night                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-```
+<div align="center">
+
+|
+ 💻 
+**
+Language
+**
+|
+ ⭐ 
+**
+Level
+**
+|
+ 📈 
+**
+Progress
+**
+|
+ 🎯 
+**
+Usage
+**
+|
+|
+-----------------
+|
+--------------
+|
+-----------------
+|
+------------------
+|
+|
+**
+TypeScript
+**
+ 🔷 
+|
+ 🌟 Expert 
+|
+`████████████`
+|
+ Daily 
+|
+|
+**
+CSS
+**
+ 🎨 
+|
+ 🔥 Advanced 
+|
+`█████████▒▒▒`
+|
+ Frequent 
+|
+|
+**
+JavaScript
+**
+ 🟨 
+|
+ ⚡ Intermediate 
+|
+`███████▒▒▒▒▒`
+|
+ Often 
+|
+|
+**
+HTML
+**
+ 🌐 
+|
+ 🌱 Learning 
+|
+`█████▒▒▒▒▒▒▒`
+|
+ Sometimes 
+|
+
+</div>
 
 ## 🐍 Snake eating contributions
 
@@ -168,6 +244,7 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
