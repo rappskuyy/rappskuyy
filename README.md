@@ -20,10 +20,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](novatorem-git-main-rappskuyys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31e3zbdu5rkj5jk2a554lkex6agm)
+[![Spotify](https://novatorem-git-main-rappskuyys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31e3zbdu5rkj5jk2a554lkex6agm)
 
 ---
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue?style=flat)
 
@@ -152,5 +151,6 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
