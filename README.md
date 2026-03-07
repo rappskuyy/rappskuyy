@@ -6,7 +6,7 @@
 
 - 🌱 I am currently learning more about front end development.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/rappskuyy/)
-- 😄 Pronouns: He/Him
+- 👨‍💻 My portofolio website [rappskuyy.my.id](rappskuyy.my.id)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rappskuyy/)
@@ -37,84 +37,12 @@
 
 <div align="center">
 
-|
- 💻 
-**
-Language
-**
-|
- ⭐ 
-**
-Level
-**
-|
- 📈 
-**
-Progress
-**
-|
- 🎯 
-**
-Usage
-**
-|
-|
------------------
-|
---------------
-|
------------------
-|
-------------------
-|
-|
-**
-TypeScript
-**
- 🔷 
-|
- 🌟 Expert 
-|
-`████████████`
-|
- Daily 
-|
-|
-**
-CSS
-**
- 🎨 
-|
- 🔥 Advanced 
-|
-`█████████▒▒▒`
-|
- Frequent 
-|
-|
-**
-JavaScript
-**
- 🟨 
-|
- ⚡ Intermediate 
-|
-`███████▒▒▒▒▒`
-|
- Often 
-|
-|
-**
-HTML
-**
- 🌐 
-|
- 🌱 Learning 
-|
-`█████▒▒▒▒▒▒▒`
-|
- Sometimes 
-|
+| 💻 **Language** | ⭐ **Level** | 📈 **Progress** | 🎯 **Usage** |
+|-----------------|--------------|-----------------|------------------|
+| **TypeScript** 🔷 | 🌟 Expert | `████████████` | Daily |
+| **CSS** 🎨 | 🔥 Advanced | `█████████▒▒▒` | Frequent |
+| **JavaScript** 🟨 | ⚡ Intermediate | `███████▒▒▒▒▒` | Often |
+| **HTML** 🌐 | 🌱 Learning | `█████▒▒▒▒▒▒▒` | Sometimes |
 
 </div>
 
@@ -244,6 +172,7 @@ HTML
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
