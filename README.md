@@ -31,7 +31,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue?style=flat) <p align="left"> <img src="https://komarev.com/ghpvc/?username=rappskuyy&label=Profile%20views&color=0e75b6&style=flat" alt="rappskuyy" /> </p>
 
 **I'm a Night 🦉** 
 
@@ -158,6 +158,7 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
