@@ -1,45 +1,20 @@
-<div align="center">
+# Hi there, I'm Rappskuyy - Raffasya Javas Niscala Widaja <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=rappskuyy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%26%20Creator&descAlignY=60&descAlign=50)
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=40)
+## I'm a Junior Web Developer
 
-![Fire Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5%20AMAZING%20DEVELOPER%20%F0%9F%94%A5%3B%F0%9F%92%BB%20CODING%20WIZARD%20%F0%9F%92%BB%3B%F0%9F%9A%80%20OPEN%20SOURCE%20HERO%20%F0%9F%9A%80%3B%E2%9C%A8%20INNOVATION%20ENTHUSIAST%20%E2%9C%A8)
+- 🌱 I am currently learning more about front end development.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/rappskuyy/)
+- 👨‍💻 My portofolio website [rappskuyy.my.id](rappskuyy.my.id)
 
-</div>
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rappskuyy/)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user/rappskuyy)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fvckrapz)
 
-# 🌅 Good morning! I'm rappskuyy 💻 ⚡ 🚀
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400" alt="Header GIF">
-
-</div>
-
-## 🌟 3D Contribution Graph
-
-<div align="center">
-
-![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=rappskuyy&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyonight&custom_title=3D%20Contribution%20Graph)
-
-<!-- Alternative Contribution Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rappskuyy&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyonight)
-
-</div>
-
-## ⏰ Development Activity
-
-<div align="center">
-
-![Development Activity](https://github-readme-stats.vercel.app/api?username=rappskuyy&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=📊%20Development%20Activity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-</div>
-
-## ⚙️ What I Do
-
-🌱 Growing developer excited about code and creativity. Building projects and learning something new every day.
-
-## 🏆 Profile Badges
+[![Acer](https://img.shields.io/badge/Acer-Acer_Nitro_5-999999=?style=for-the-badge&logo=acer&logoColor=green)]()
 
 <div align="center">
 
@@ -54,39 +29,29 @@
 
 </div>
 
-## 💭 Daily Programming Wisdom
+---
+### About Me 
+ 
+<p align="left">As a student who is passionate about learning web development, I have a strong interest in building websites and exploring modern technologies. I enjoy learning how systems work, from creating simple interfaces to understanding how applications process data. Currently, I am focusing on improving my programming skills and learning various web technologies.<br><br> I like solving problems, experimenting with code, and continuously improving my abilities through practice and projects. I believe that curiosity, consistency, and collaboration are important in the world of technology. With enthusiasm and dedication, I am eager to continue learning and developing my skills in web development.</p>
 
-<div align="center">
+###
 
-> **Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics.** ✨
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-</div>
+---
 
-## ⚙️ Complete Tech Arsenal
+### Spotify Playing 🎧
 
-### 🔥 Programming Languages
+[![Spotify](https://img.sanishtech.com/u/046f5b969c2edb96733bebd39e68302d.png)
 
-<div align="center">
+<div align="right">
 
-![Languages](https://skillicons.dev/icons?i=ts,css,js,html&theme=dark&perline=8)
-
-</div>
-
-### ⚡ Frameworks & Libraries
-
-<div align="center">
-
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs&theme=dark&perline=8)
+[![Playlist 1](https://img.shields.io/badge/🎵%20Playlist%201-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7885sWqktL5MDB6fYlbFaa?si=f8d25f773c1c493b)
 
 </div>
 
-### 🛠️ Tools & Technologies
 
-<div align="center">
-
-![Tools](https://skillicons.dev/icons?i=vite,eslint,git,vscode&theme=dark&perline=8)
-
-</div>
+---
 
 ### 📊 Skill Level Breakdown
 
@@ -101,39 +66,6 @@
 
 </div>
 
-## ⚡ GitHub Streaks & Achievements
-
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rappskuyy&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23c0caf5%22%2C%22accentColor%22%3A%22%237aa2f7%22%2C%22borderColor%22%3A%22%23414868%22%2C%22waterColor%22%3A%22%237aa2f7%22%2C%22streakColor%22%3A%22%23f7768e%22%7D)
-
-</div>
-
-## 🎉 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rappskuyy&theme=tokyonight&area=true&hide_border=true&custom_title=Contribution%20Graph&line=9ece6a&point=9ece6a&area_color=9ece6a40&title_color=9ece6a&color=9ece6a&bg_color=bb9af720)
-
-</div>
-
-## 📊 GitHub Metrics Dashboard
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rappskuyy&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&line_height=21&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117)
-
-<!-- Alternative GitHub Metrics for better reliability -->
-![Alternative Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rappskuyy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000&include_all_commits=true)
-
-![Backup Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rappskuyy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000)
-
-![Comprehensive Stats](https://github-readme-stats.vercel.app/api?username=rappskuyy&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=27&custom_title=📊%20Comprehensive%20GitHub%20Statistics)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rappskuyy&theme=dark)
-
-</div>
-
 ## 🐍 Snake eating contributions
 
 <div align="center">
@@ -142,105 +74,99 @@
 
 </div>
 
-<details>
-<summary>🔧 How to add YOUR Snake Animation</summary>
+📊 **Stats & Streaks Github** 
 
-1. Create a repository with the same name as your username (rappskuyy)
-2. Add the GitHub Action from: https://github.com/Platane/snk
-3. The snake animation will be generated automatically with your contributions!
-4. After setup, regenerate your README to see your personal snake!
+<div align="center" height="150">
 
-</details>
-
-## 🎵 Music & Entertainment
-
-### 🎧 Currently Listening To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/rappskuyy)
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rappskuyy&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23c0caf5%22%2C%22accentColor%22%3A%22%237aa2f7%22%2C%22borderColor%22%3A%22%23414868%22%2C%22waterColor%22%3A%22%237aa2f7%22%2C%22streakColor%22%3A%22%23f7768e%22%7D)
 
 </div>
 
-### 🔥 Top Tracks This Week
+###
 
-<div align="center">
+<h3 align="center"></h3>
 
-[![Top Tracks](https://spotify-recently-played-readme.vercel.app/api/spotify-recently-played)](https://open.spotify.com/user/rappskuyy)
+###
 
+<h2 align="left">Frontend Langguage Programming</h2>
+
+###
+
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="javascript logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
+        alt="html5 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"
+        alt="css3 logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"
+        alt="bootstrap logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"
+        alt="react logo"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30"
+        alt="jquery logo" />
 </div>
 
-### 📀 My Coding Playlists
+###
 
-<div align="center">
+<h3 align="left"></h3>
 
-[![Playlist 1](https://img.shields.io/badge/🎵%20Playlist%201-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7885sWqktL5MDB6fYlbFaa?si=f8d25f773c1c493b)
+###
 
+<h2 align="left">Backend Langguage Programming</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="30" alt = "firebase logo"/>
 </div>
 
-## 📊 Advanced Analytics
 
-<div align="center">
+###
 
-| 📊 **Metric** | 🔢 **Count** | 📈 **Details** | 🎯 **Impact** |
-|---------------|--------------|----------------|---------------|
-| **Total Repositories** | 15 | 📁 Public projects | 🌟 Innovation |
-| **Total Stars Earned** | 0 | ⭐ Community love | 🚀 Recognition |
-| **Total Forks** | 0 | 🍴 Code reused | 💡 Inspiration |
-| **Pull Requests** | 0 | 🔄 Contributions | 🤝 Collaboration |
-| **Issues Solved** | 0 | 🐛 Problems fixed | 🛠️ Problem solving |
-| **This Week's Commits** | 0 | 💻 Recent activity | ⚡ Consistency |
+<h3 align="left"></h3>
 
+###
+
+<h2 align="left">Software and Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
 </div>
 
-## 📦 Featured Projects
+###
 
-<div align="center">
+<h3 align="left"></h3>
 
-### 🌟 Showcasing My Best Work
 
-<a href="https://github.com/rappskuyy/rappskuyy" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rappskuyy&repo=rappskuyy&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/rappskuyy/pplgx1new" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rappskuyy&repo=pplgx1new&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
 
-<a href="https://github.com/rappskuyy/example" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rappskuyy&repo=example&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/rappskuyy/PPLGX1" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rappskuyy&repo=PPLGX1&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-
-<a href="https://github.com/rappskuyy/Tugas-Proyek-Portofolio-HTML-CSS" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rappskuyy&repo=Tugas-Proyek-Portofolio-HTML-CSS&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/rappskuyy/KitKop-Id" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rappskuyy&repo=KitKop-Id&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-
-</div>
-
-## 👥 Recent Profile Visitors
-
-<div align="center">
-
-### 🌟 Thanks for visiting! Meet some amazing developers who recently followed me:
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://github.com/ahmadfathiralmubarok-maker" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/242411350?v=4?s=80" width="80px" height="80px" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.3);" alt="ahmadfathiralmubarok-maker" title="Visit ahmadfathiralmubarok-maker's profile" />
-<br/>
-<sub><b style="font-size: 12px; color: #58a6ff;">ahmadfathiralmubarok-maker</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-### 💝 Join our growing community of 1 developers!
+### 
 
 <p align="center">
 <a href="https://github.com/rappskuyy?tab=followers" target="_blank">
@@ -254,48 +180,7 @@
 
 </div>
 
-## 🎮 Daily Dose of Inspiration
+###
 
-<div align="center">
+<img src="https://imgur.com/rilHVxA.png"/> 
 
-> **The best method for accelerating a computer is the one that boosts it by 9.8 m/s².** ✨
-
-</div>
-
-### 😄 Developer Humor Break
-
-<div align="center">
-
-Why do Java developers wear glasses? Because they don't C# 👓
-
-</div>
-
-<div align="center">
-
----
-
-## 🔗 Let's Build Something Amazing Together!
-
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rappskuyy) [![GitHub](https://img.shields.io/badge/🐙%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=fadeIn)
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Footer Animation">
-
-![Profile Views](https://komarev.com/ghpvc/?username=rappskuyy&label=Profile%20views&color=0e75b6&style=flat&labelColor=1c1917) ![GitHub Followers](https://img.shields.io/github/followers/rappskuyy?style=social&label=Follow) ![GitHub Stars](https://img.shields.io/github/stars/rappskuyy?style=social&label=Stars)
-
-### ✨ "Code is poetry written in logic" ✨
-
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
-
-*Made with ❤️, lots of ☕, and a touch of ✨ magic*
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Skills Animation">
-
----
-
-> 🚀 **"Every expert was once a beginner. Keep coding, keep learning!"**
-
-⭐ **From [rappskuyy](https://github.com/rappskuyy) with 💝**
-
-</div>
