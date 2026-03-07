@@ -15,6 +15,11 @@
 [![Acer](https://img.shields.io/badge/Acer-Acer_Nitro_5-999999=?style=for-the-badge&logo=acer&logoColor=green)]()
 
 ---
+### About Me 
+ 
+<p align="left">As a student who is passionate about learning web development, I have a strong interest in building websites and exploring modern technologies. I enjoy learning how systems work, from creating simple interfaces to understanding how applications process data. Currently, I am focusing on improving my programming skills and learning various web technologies.<br><br> I like solving problems, experimenting with code, and continuously improving my abilities through practice and projects. I believe that curiosity, consistency, and collaboration are important in the world of technology. With enthusiasm and dedication, I am eager to continue learning and developing my skills in web development.</p>
+
+###
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -151,6 +156,7 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
