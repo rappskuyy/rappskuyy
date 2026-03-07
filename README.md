@@ -1,168 +1,30 @@
-# Hi there, I'm Rappskuyy - Raffasya Javas Niscala Widaja <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<h1 align="center">Hi 👋, I'm Rappskuyy - Raffasya Javas Niscala Widjaja</h1>
+<h3 align="center">As a student who is passionate about learning web development, I have a strong interest in building websites and exploring modern technologies. I enjoy learning how systems work, from creating simple interfaces to understanding how applications process data. Currently, I am focusing on improving my programming skills and learning various web technologies.<br><br> I like solving problems, experimenting with code, and continuously improving my abilities through practice and projects. I believe that curiosity, consistency, and collaboration are important in the world of technology. With enthusiasm and dedication, I am eager to continue learning and developing my skills in web development.</h3>
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rappskuyy&label=Profile%20views&color=0e75b6&style=flat" alt="rappskuyy" /> </p>
 
-## I'm a Junior Web Developer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rappskuyy" alt="rappskuyy" /></a> </p>
 
-- 🌱 I am currently learning more about front end development.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/rappskuyy/)
-- 😄 Pronouns: He/Him
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rappskuyy/)
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user/rappskuyy)
+- 🌱 I’m currently learning **Front End Developer**
 
-[![Acer](https://img.shields.io/badge/Acer-Acer_Nitro_5-999999=?style=for-the-badge&logo=acer&logoColor=green)]()
+- 👨‍💻 All of my projects are available at [rappskuyy.my.id](rappskuyy.my.id)
 
----
-### About Me 
- 
-<p align="left">As a student who is passionate about learning web development, I have a strong interest in building websites and exploring modern technologies. I enjoy learning how systems work, from creating simple interfaces to understanding how applications process data. Currently, I am focusing on improving my programming skills and learning various web technologies.<br><br> I like solving problems, experimenting with code, and continuously improving my abilities through practice and projects. I believe that curiosity, consistency, and collaboration are important in the world of technology. With enthusiasm and dedication, I am eager to continue learning and developing my skills in web development.</p>
+- 📫 How to reach me **raffasyajanaz@gmail.com**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rappskuyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rappskuyy" height="30" width="40" /></a>
+<a href="https://instagram.com/rappskuyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rappskuyy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/fvckrapz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fvckrapz" height="30" width="40" /></a>
+</p>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rappskuyy&show_icons=true&locale=en&layout=compact" alt="rappskuyy" /></p>
 
-### Spotify Playing 🎧
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rappskuyy&show_icons=true&locale=en" alt="rappskuyy" /></p>
 
-[![Spotify](https://novatorem-git-main-rappskuyys-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31e3zbdu5rkj5jk2a554lkex6agm)
-
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-🌆 Daytime                157 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌃 Evening                197 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌙 Night                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-```
-
-
-📊 **Stats & Streaks Github** 
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=rappskuyy&theme=tokyonight" height="150" alt="GitHub Streak" /></a>
-</div
-
-###
-
-<h3 align="center"></h3>
-
-###
-
-<h2 align="left">Frontend Langguage Programming</h2>
-
-###
-
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-        alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
-        alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"
-        alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"
-        alt="bootstrap logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"
-        alt="react logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30"
-        alt="jquery logo" />
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<h2 align="left">Backend Langguage Programming</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="30" alt = "firebase logo"/>
-</div>
-
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<h2 align="left">Software and Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="www.youtube.com/@fvckrapz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/rappskuyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="linkedin.com/in/rappskuyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left"></h3>
-
-
-###
-
-
-
-<img src="https://imgur.com/rilHVxA.png"/> 
-
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rappskuyy&" alt="rappskuyy" /></p>
