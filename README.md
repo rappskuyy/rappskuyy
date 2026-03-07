@@ -47,6 +47,7 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=rappskuyy&theme=tokyonight" height="150" alt="GitHub Streak" /></a>
 </div
+[![rappskutt GitHub stats](https://github-readme-stats.vercel.app/api?username=rappskuyy)](https://github.com/rappskuyy/github-readme-stats)
 
 ###
 
@@ -158,6 +159,7 @@
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
