@@ -1,14 +1,43 @@
-<h1 align="center">Hi 👋! My name is Raffasya Javas Niscala Widjaja</h1>
+# Hi there, I'm Rappskuyy - Raffasya Javas Niscala Widaja <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-###
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-<h3 align="center">A Junior Web Developer from Indonesian</h3>
-  
-### 
- 
-<p align="left">As a student who is passionate about learning web development, I have a strong interest in building websites and exploring modern technologies. I enjoy learning how systems work, from creating simple interfaces to understanding how applications process data. Currently, I am focusing on improving my programming skills and learning various web technologies.<br><br> I like solving problems, experimenting with code, and continuously improving my abilities through practice and projects. I believe that curiosity, consistency, and collaboration are important in the world of technology. With enthusiasm and dedication, I am eager to continue learning and developing my skills in web development.</p>
+## I'm a Junior Web Developer
 
-###
+- 🌱 I am currently learning more about front end development.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/rappskuyy/)
+- 😄 Pronouns: He/Him
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rappskuyy/)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user/rappskuyy)
+[![Acer](https://img.shields.io/badge/Acer-Acer_Nitro_5-999999=?style=for-the-badge&logo=acer&logoColor=green)]()
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+
+---
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+🌆 Daytime                157 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
+🌃 Evening                197 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
+🌙 Night                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
 
 <h3 align="center"></h3>
 
@@ -120,3 +149,6 @@
 
 ###
 
+
+
+<img src="https://imgur.com/rilHVxA.png"/> 
