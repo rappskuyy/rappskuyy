@@ -159,7 +159,7 @@
 
 
 
-### 💝 Join our growing community of 1 developers!
+### 
 
 <p align="center">
 <a href="https://github.com/rappskuyy?tab=followers" target="_blank">
@@ -176,6 +176,7 @@
 ###
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
