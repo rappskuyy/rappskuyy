@@ -42,7 +42,7 @@
 
 ### Spotify Playing 🎧
 
-[Spotify](https://img.sanishtech.com/u/046f5b969c2edb96733bebd39e68302d.png)
+[![Spotify](https://img.sanishtech.com/u/046f5b969c2edb96733bebd39e68302d.png)
 
 <div align="left">
 
@@ -183,6 +183,7 @@
 ###
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 
 
