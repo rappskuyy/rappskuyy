@@ -42,7 +42,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://img.sanishtech.com/u/046f5b969c2edb96733bebd39e68302d.png)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e3zbdu5rkj5jk2a554lkex6agm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="left">
 
