@@ -46,7 +46,7 @@
 
 <div align="left">
 
-[![Playlist Me](https://img.shields.io/badge/🎵%20Playlist%201-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7885sWqktL5MDB6fYlbFaa?si=f8d25f773c1c493b)
+[![Playlist Me](https://img.shields.io/badge/🎵%20Playlist%201-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/playlist/7885sWqktL5MDB6fYlbFaa?si=f8d25f773c1c493b](https://open.spotify.com/playlist/14JqNrgxtJR4CKwkHTg13E?si=d95f44b0c30840f1))
 
 </div>
 
