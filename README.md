@@ -42,7 +42,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e3zbdu5rkj5jk2a554lkex6agm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e3zbdu5rkj5jk2a554lkex6agm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31e3zbdu5rkj5jk2a554lkex6agm&redirect=true)
 
 <div align="left">
 
@@ -76,7 +76,9 @@
 
 <div align="center" height="150">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rappskuyy)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rappskuyy&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=rappskuyy&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rappskuyy&layout=compact&theme=github_dark)
 
 </div>
 
