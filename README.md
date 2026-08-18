@@ -68,7 +68,7 @@
 
 ## 🐍 Snake eating contributions
 
-[![GitHub Snake](https://raw.githubusercontent.com/rappskuyy/rappskuyy/output/github-user-contribution.svg)](https://github.com/rappskuyy)
+[![GitHub Snake](https://raw.githubusercontent.com/rappskuyy/rappskuyy/output/github-contribution-grid-snake-dark.svg)](https://github.com/rappskuyy)
 
 </div>
 
