@@ -1,7 +1,7 @@
 # Hi there, I'm Rappskuyy - Raffasya Javas Niscala Widaja <img width="30" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <p align="center">
-  <img alt="GIF" width="100%" style="border-radius: 8px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img alt="GIF" width="80%" style="border-radius: 8px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
 ## I'm a Junior Full-Stack Developer
