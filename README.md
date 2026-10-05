@@ -94,7 +94,7 @@
 
   <p><b>Languages & Core</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py" />
   </a>
   <br><br>
 
