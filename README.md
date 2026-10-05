@@ -1,25 +1,18 @@
-# Hi there, I'm Rappskuyy - Raffasya Javas Niscala Widaja <img width="30" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Rappskuyy - Raffasya Javas Niscala Widaja <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <h2>I'm a Junior Full-Stack Developer</h2>
-      <ul>
-        <li>🌱 I am currently learning more about front end development.</li>
-        <li>📫 What is the best way to contact me? <a href="https://www.linkedin.com/in/rappskuyy/">Linkedin</a></li>
-        <li>👨‍💻 My portfolio website <a href="http://rappskuyy.my.id">rappskuyy.my.id</a></li>
-      </ul>
-      <br>
-      <a href="https://github.com/rappskuyy"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/rappskuyy/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://www.instagram.com/user/rappskuyy"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.youtube.com/@fvckrapz"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    </td>
-    <td align="center" valign="middle" width="35%">
-      <img alt="GIF" width="100%" style="max-width: 280px; border-radius: 8px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-    </td>
-  </tr>
-</table>
+<img align="right" alt="GIF" width="260" style="margin-top: 25px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+## I'm a Junior Full-Stack Developer
+
+- 🌱 I am currently learning more about front end development.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/rappskuyy/)
+- 👨‍💻 My portofolio website [rappskuyy.my.id](rappskuyy.my.id)
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rappskuyy/)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user/rappskuyy)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fvckrapz)
+
 
 [![Acer](https://img.shields.io/badge/Acer-Acer_Nitro_5-999999=?style=for-the-badge&logo=acer&logoColor=green)]()
 
