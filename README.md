@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Junior Web Developer
+## I'm a Junior Full-Stack Developer
 
 - 🌱 I am currently learning more about front end development.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/rappskuyy/)
@@ -92,25 +92,49 @@
 
 ###
 
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-        alt="javascript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"
-        alt="html5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"
-        alt="css3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"
-        alt="bootstrap logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30"
-        alt="react logo"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30"
-        alt="jquery logo" />
+<div align="center">
+  <h3>Tech Stack & Tools</h3>
+  <br>
+
+  <p><b>Languages & Core</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,go,java,cs" />
+  </a>
+  <br><br>
+
+  <p><b>Frameworks & Libraries</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,laravel,spring" />
+  </a>
+  <br>
+  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Slim.png" alt="Slim Framework" />
+  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Grails.svg" alt="Grails" />
+  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Gin-Gonic.png" alt="Gin-Gonic" />
+  <br><br>
+
+  <p><b>Databases & Cloud / BaaS</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,gcp" />
+  </a>
+  <br><br>
+
+  <p><b>Tools, Environment & Platforms</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,docker,git,github,gitlab,nodejs,postman,figma,bash,windows" />
+  </a>
+  <br><br>
+
+  <!-- bagian ai -->
+  <p><b>AI, APIs & Coding Tools</b></p>
+  <div>
+    <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Antigravity.jpg" alt="Antigravity IDE" />
+    <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Codex.jpg" alt="OpenAI Codex" />
+    <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Devin.png" alt="Devin AI" />
+  </div>
 </div>
+
+<br>
+<br>
 
 ###
 
