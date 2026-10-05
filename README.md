@@ -1,18 +1,19 @@
-# Hi there, I'm Rappskuyy - Raffasya Javas Niscala Widaja <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Rappskuyy - Raffasya Javas Niscala Widaja <img width="30" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<img align="right" alt="GIF" width="260" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 ## I'm a Junior Full-Stack Developer
 
 - 🌱 I am currently learning more about front end development.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/rappskuyy/)
-- 👨‍💻 My portofolio website [rappskuyy.my.id](rappskuyy.my.id)
+- 👨‍💻 My portfolio website [rappskuyy.my.id](rappskuyy.my.id)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rappskuyy)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rappskuyy/)
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user/rappskuyy)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fvckrapz)
 
+<br clear="right" />
 
 [![Acer](https://img.shields.io/badge/Acer-Acer_Nitro_5-999999=?style=for-the-badge&logo=acer&logoColor=green)]()
 
