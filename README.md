@@ -100,13 +100,13 @@
 
   <p><b>Frameworks & Libraries</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,laravel,spring" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,laravel" />
   </a>
   <br>
 
   <p><b>Databases & Cloud / BaaS</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,gcp,mongo" />
   </a>
   <br><br>
 
