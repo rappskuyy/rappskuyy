@@ -98,7 +98,7 @@
 
   <p><b>Languages & Core</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,go,java,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cs" />
   </a>
   <br><br>
 
@@ -107,10 +107,6 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,express,tailwind,laravel,spring" />
   </a>
   <br>
-  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Slim.png" alt="Slim Framework" />
-  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Grails.svg" alt="Grails" />
-  <img width="45" src="https://raw.githubusercontent.com/muhamadfedliansyah-boop/muhamadfedliansyah-boop/main/assets/icons/Gin-Gonic.png" alt="Gin-Gonic" />
-  <br><br>
 
   <p><b>Databases & Cloud / BaaS</b></p>
   <a href="https://skillicons.dev">
