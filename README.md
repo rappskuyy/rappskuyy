@@ -84,15 +84,11 @@
 
 ###
 
-<h3 align="center"></h3>
+<h3 align="left"></h3>
 
 ###
 
-<h2 align="left">Frontend Langguage Programming</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <h3>Tech Stack & Tools</h3>
   <br>
 
@@ -116,7 +112,7 @@
 
   <p><b>Tools, Environment & Platforms</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,sublime,docker,git,github,gitlab,nodejs,postman,figma,bash,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,git,github,gitlab,nodejs,postman,figma,bash,windows" />
   </a>
   <br><br>
 
@@ -133,56 +129,6 @@
 <br>
 
 ###
-
-<h3 align="left"></h3>
-
-###
-
-<h2 align="left">Backend Langguage Programming</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="30" alt = "firebase logo"/>
-</div>
-
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<h2 align="left">Software and Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left"></h3>
 
 
 
